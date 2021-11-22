@@ -3,6 +3,6 @@ Following a study plan to learn Data Structures and Algorithms. All the codes I 
 
 [**Day-1 of Algorithms Study Plan**](https://leetcode.com/study-plan/algorithm/?progress=rnfohwc)
 
-- [Binary Search](https://leetcode.com/problems/binary-search/)
-- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [Binary Search](https://github.com/Vikram310/LeetCode-DSA/blob/main/704-Binary%20Search.py)
+- [First Bad Version](https://github.com/Vikram310/LeetCode-DSA/blob/main/278%20-%20First%20Bad%20Version.py)
+- [Search Insert Position](https://github.com/Vikram310/LeetCode-DSA/blob/main/35%20-%20Search%20Insert.py)
