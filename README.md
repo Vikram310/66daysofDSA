@@ -1,5 +1,5 @@
 **66DaysofDSA**
-Following a study plan to learn Data Structures and Algorithms. All the codes I write and their links will be present in this repo
+- Following a study plan to learn Data Structures and Algorithms. All the codes I write and their links will be present in this repo
 
 [Click here for Leetcode study plan](https://leetcode.com/study-plan/algorithm/?progress=rnfohwc)
 [Click here for Love-Babbar's DSA Sheet](https://github.com/Vikram310/66daysofDSA/blob/main/GFG%20DSA/FINAL450.xlsx)
